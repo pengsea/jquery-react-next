@@ -11,6 +11,7 @@
 
 # next.js
 /.next/
+/next/.next/
 /out/
 
 # production
@@ -33,3 +34,5 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+/.vscode/
